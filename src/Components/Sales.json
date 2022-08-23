@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "image/Bright-logo.jpg",
+        "detail": "",
+        "price": ""
+    },
+    {
+        "id": 2,
+        "image": "image/made-sneaker.jpg",
+        "detail": "",
+        "price": ""
+    },
+    {
+        "id": 3,
+        "image": "image/Touched-logo.jpg",
+        "detail": "",
+        "price": ""
+    },
+    {
+        "id": 4,
+        "image": "image/glowingbrown.jpg",
+        "detail": "",
+        "price": ""
+    },
+    {
+        "id": 5,
+        "image": "image/versace.jpg",
+        "detail": "",
+        "price": ""
+    },
+    {
+        "id": 6,
+        "image": "image/footwear.jpg",
+        "detail": "",
+        "price": ""
+    },
+    {
+        "id": 7,
+        "image": "image/ladywear.jpg",
+        "detail": "",
+        "price": ""
+    }
+    ]
